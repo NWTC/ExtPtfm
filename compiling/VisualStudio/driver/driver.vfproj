@@ -29,6 +29,7 @@
 		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl">
 		<Filter Name="ExtPtfm_MCKF">
 		<File RelativePath="..\..\..\source\ExtPtfm_MCKF.f90"/>
+		<File RelativePath="..\..\..\source\ExtPtfm_MCKF_Registry.txt"/>
 		<File RelativePath="..\..\..\source\ExtPtfm_MCKF_Types.f90"/></Filter>
 		<Filter Name="NWTC_Library">
 		<File RelativePath="..\..\..\subs\NWTC_Library\source\ModMesh.f90"/>
